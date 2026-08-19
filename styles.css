@@ -6,16 +6,16 @@ html { scroll-behavior: smooth; }
 body {
   margin: 0;
   font-family: 'Nunito', Arial, sans-serif;
-  color: #25283d;
+  color: #f70606;
   background: linear-gradient(135deg, #eef2f7, #f9fafc, #e9edf3);
   min-height: 100vh;
 }
 
 .hero {
   padding: 28px 20px 65px;
-  background: linear-gradient(135deg, #20243b, #3c4672 55%, #626f9d);
+  background: linear-gradient(135deg, #f50606, #f50606 55%, #f50606);
   overflow: hidden;
-  box-shadow: 0 10px 35px rgba(31,38,67,.18);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.877);
 }
 
 .hero-inner {
